@@ -1,0 +1,18 @@
+{
+  "name": "dao-de-jiaoti-proposition",
+  "version": "1.0.0",
+  "description": "初中道德与法治命题工具包——客观题命制、主观题命制、情景判断题、试题入库管理，含七八年级教材框架与试题库",
+  "author": {
+    "name": "刘文金",
+    "email": "1050828506@qq.com"
+  },
+  "license": "MIT",
+  "keywords": ["道德与法治", "命题", "中考", "试题库", "教育"],
+  "category": "education",
+  "skills": [
+    "./skills/objective-question",
+    "./skills/subjective-question",
+    "./skills/scenario-judgment",
+    "./skills/question-bank-manager"
+  ]
+}
