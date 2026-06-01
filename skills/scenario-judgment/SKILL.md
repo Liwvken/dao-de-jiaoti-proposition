@@ -5,7 +5,7 @@ description: 初中道德与法治情景核心知识判断题。用户说"命制
 
 # 情景核心知识判断题
 
-命题前，必须先读取 `~/.claude/projects/-Users-liwvken/memory/proposition-general-requirements.md` 获取完整的命题总要求（命题依据、目标、原则、规划、学业质量、逻辑规范等）。
+命题前，必须先读取 `~/.claude/memory/proposition-general-requirements.md` 获取完整的命题总要求（命题依据、目标、原则、规划、学业质量、逻辑规范等）。
 
 ---
 

@@ -26,10 +26,10 @@ description: 试题入库管理。用户发来一道或一组试题时，自动�
 
 | 教材 | 框架文件 |
 |------|---------|
-| 七年级上册 | `~/.claude/projects/-Users-liwvken/memory/textbook-7a.md` |
-| 七年级下册 | `~/.claude/projects/-Users-liwvken/memory/textbook-7b.md` |
-| 八年级上册 | `~/.claude/projects/-Users-liwvken/memory/textbook-8a.md` |
-| 八年级下册 | `~/.claude/projects/-Users-liwvken/memory/textbook-8b.md` |
+| 七年级上册 | `~/.claude/memory/textbook-7a.md` |
+| 七年级下册 | `~/.claude/memory/textbook-7b.md` |
+| 八年级上册 | `~/.claude/memory/textbook-8a.md` |
+| 八年级下册 | `~/.claude/memory/textbook-8b.md` |
 
 匹配方法：
 1. 从试题中提取关键知识点（概念、原理、制度名称等）

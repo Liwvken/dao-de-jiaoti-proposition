@@ -9,7 +9,7 @@ Write-Host ""
 
 $RepoDir = Split-Path -Parent $MyInvocation.MyCommand.Path
 $SkillDir = "$env:USERPROFILE\.claude\skills"
-$MemoryDir = "$env:USERPROFILE\.claude\projects\-Users-liwvken\memory"
+$MemoryDir = "$env:USERPROFILE\.claude\memory"
 
 # 1. 安装技能
 Write-Host "[1/4] 安装技能到 $SkillDir ..." -ForegroundColor Yellow

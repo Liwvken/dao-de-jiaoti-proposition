@@ -12,7 +12,7 @@ echo ""
 
 REPO_DIR="$(cd "$(dirname "$0")" && pwd)"
 SKILL_DIR="$HOME/.claude/skills"
-MEMORY_DIR="$HOME/.claude/projects/-Users-liwvken/memory"
+MEMORY_DIR="$HOME/.claude/memory"
 
 # 1. 安装技能（符号链接）
 echo "[1/4] 安装技能到 $SKILL_DIR ..."
